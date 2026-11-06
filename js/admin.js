@@ -3,7 +3,7 @@
 
   // ===== Settings: change only if your repo is different =====
   var OWNER = "jdjj47090-sketch";
-  var REPO = "Bio";
+  var REPO = "Bio0";
   var BRANCH = "main";
   var CONFIG_PATH = "js/config.js";
   var TOKEN_KEY = "bio_admin_token";
